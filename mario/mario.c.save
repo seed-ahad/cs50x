@@ -1,0 +1,15 @@
+ #include <stdio.h>
+#include <cs50.h>
+
+int main (void)
+{
+
+int n = get_int("give number\n");
+for( int n = 0 ;n > 0; n--)
+{
+printf("#");
+ } 
+
+
+
+}
